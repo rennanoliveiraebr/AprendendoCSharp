@@ -41,7 +41,6 @@ namespace P13_ForEncadeado
                 Console.WriteLine();
             }
 
-
             Console.ReadLine();
         }
     }
